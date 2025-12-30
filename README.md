@@ -1,1 +1,3 @@
-# disentangled_transformer
+# Disentangled transformer
+
+Implementation in torch
